@@ -33,7 +33,7 @@
 ---
 
 ## 🏢 Work Experience
-- **Java Full Stack Developer** at **Airbnb, Inc.** (2019 — Present)
+- **Java Full Stack Developer** at **Airbnb, Inc.** (2022 — Present)
   - Built scalable **REST APIs** using **Spring Boot** and **Hibernate**
   - Developed responsive **Angular** UIs integrated with secure backend services
   - Designed **Microservices** with **JWT Authentication**
