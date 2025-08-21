@@ -109,15 +109,16 @@
 
 ---
 
-## 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/rakesh-kumar-89499a267" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:rakesh726102@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/rakesh-kumar-89499a267" target="_blank">
+    <img src="https://img.shields.io/badge/-Rakesh%20Kumar-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rakesh726102@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-rakesh726102@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Rakesh9439" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  </a>
 </p>
-
----
-
-<!---
-Rakesh9439/Rakesh9439 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
