@@ -11,8 +11,8 @@
 
 - 🧑‍💻 **3.5+ years** of professional experience as a **Java Full Stack Developer**  
 - 🚀 Currently working at **Airbnb Inc.** building **scalable microservices & enterprise-grade applications**  
-- 🌱 Expanding expertise in **Cloud Computing (AWS, Azure)**, **DevOps**, and **Distributed Systems**  
-- 🔐 Skilled in **Spring Boot, Spring Security, JWT Authentication, Role-Based Access Control (RBAC)**  
+-  
+- 🔐 Skilled in **Spring Boot, Spring Security, JWT Authentication, Role-Based Authentication**  
 - 🛠️ Hands-on with **REST APIs, Microservices, CI/CD Pipelines, and Database Optimization**  
 - 🎨 Frontend expertise: **Angular (TypeScript, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS)**  
 - ☁️ Cloud & DevOps: **AWS (EC2, RDS, S3, CloudWatch), Docker, Kubernetes, Jenkins, Terraform**  
@@ -66,7 +66,7 @@
   - Built scalable **REST APIs** using **Spring Boot & Hibernate**  
   - Developed responsive **Angular (TypeScript, JavaScript, HTML5, CSS3)** UIs integrated with secure backend services  
   - Designed **Microservices** with **JWT + Spring Security** for authentication & authorization  
-  - Implemented **Role-Based Access Control (RBAC)** & **Role-Based Authentication** for Admin/User/Manager roles  
+  - Implemented  **Role-Based Authentication** for Admin/User roles  
   - Optimized complex **SQL Queries** and database schema for high-performance transaction systems  
   - Integrated **Stripe Payment Gateway** for secure and seamless online payments  
   - Integrated **AWS S3 Buckets** for file management (property images, PDFs)  
