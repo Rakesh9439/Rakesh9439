@@ -7,13 +7,21 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🧑‍💻 **3.4+ years** of professional experience in Full Stack Development (Java, Spring Boot, Angular)
-- 🔥 Currently working at **Airbnb Inc.** as a Java Full Stack Developer
-- 🌱 Expanding expertise in **AWS Cloud Services** and **Microservices Architecture**
-- 👨‍💻 Specialized in **REST API Development**, **JWT Authentication**, **Database Optimization**
-- 💬 Ask me about **Java | Spring Boot | Angular | AWS | Microservices | Docker**
-- 📫 How to reach me: **[rakesh726102@gmail.com](mailto:rakesh726102@gmail.com)**
+## 👨‍💻 About Me  
+
+- 🧑‍💻 **3.5+ years** of professional experience as a **Java Full Stack Developer**  
+- 🚀 Currently working at **Airbnb Inc.** building **scalable microservices & enterprise-grade applications**  
+- 🌱 Expanding expertise in **Cloud Computing (AWS, Azure)**, **DevOps**, and **Distributed Systems**  
+- 🔐 Skilled in **Spring Boot, Spring Security, JWT Authentication, Role-Based Access Control (RBAC)**  
+- 🛠️ Hands-on with **REST APIs, Microservices, CI/CD Pipelines, and Database Optimization**  
+- 🎨 Frontend expertise: **Angular (TypeScript, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS)**  
+- ☁️ Cloud & DevOps: **AWS (EC2, RDS, S3, CloudWatch), Docker, Kubernetes, Jenkins, Terraform**  
+- 💳 Integrated **Payment Gateway (Stripe/PayPal)** & **Notification Services (SMS, Email)**  
+- 📊 Experienced in **Agile Scrum**, using **JIRA, GitHub, Postman, Swagger**  
+- 💬 Ask me about: **Java | Spring Boot | Angular | AWS | Microservices | DevOps | Database Design**  
+- 📫 Reach me at: **[rakesh726102@gmail.com](mailto:rakesh726102@gmail.com)**  
+- ⚡ Fun Fact: I love **solving system design problems** & exploring **new cloud-native tech**  
+
 
 ---
 
