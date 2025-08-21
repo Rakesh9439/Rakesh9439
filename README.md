@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
 <h3 align="center">
-  💻 Java Full Stack Developer | 🌐 4 Years Experience <br/>
+  💻 Java Full Stack Developer | 🌐 3.5 + Years Experience <br/>
   🚀 Passionate about Backend | Frontend | Cloud | DevOps
 </h3>
 
