@@ -70,12 +70,26 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats & Activity  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh9439&show_icons=true&theme=radical" alt="Rakesh's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh9439&theme=radical" alt="GitHub Streak" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh9439&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh9439&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh9439&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Rakesh9439&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
 
 ---
 
