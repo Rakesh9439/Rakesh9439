@@ -33,14 +33,19 @@
 ---
 
 ## 🏢 Work Experience
-- **Java Full Stack Developer** at **Airbnb, Inc.** (2022 — Present)
-  - Built scalable **REST APIs** using **Spring Boot** and **Hibernate**
-  - Developed responsive **Angular** UIs integrated with secure backend services
-  - Designed **Microservices** with **JWT Authentication**
-  - Integrated **AWS S3 Buckets** for file management (property images, PDFs)
-  - Implemented **SMS & Email Notification Systems** for booking confirmations
-  - Worked with **JIRA**, **GitHub**, **Postman**, **Swagger** in Agile Scrum environment
-  - Awarded **Best Employer of the Year – 2023**
+- **Java Full Stack Developer** at **Airbnb, Inc.** (2022 — Present)  
+  - Built scalable **REST APIs** using **Spring Boot & Hibernate**  
+  - Developed responsive **Angular (TypeScript, JavaScript, HTML5, CSS3)** UIs integrated with secure backend services  
+  - Designed **Microservices** with **JWT + Spring Security** for authentication & authorization  
+  - Implemented **Role-Based Access Control (RBAC)** & **Role-Based Authentication** for Admin/User/Manager roles  
+  - Optimized complex **SQL Queries** and database schema for high-performance transaction systems  
+  - Integrated **Stripe Payment Gateway** for secure and seamless online payments  
+  - Integrated **AWS S3 Buckets** for file management (property images, PDFs)  
+  - Automated **CI/CD pipelines** using **Jenkins + Docker + Kubernetes** for microservices deployment  
+  - Provisioned infrastructure using **Terraform** (IaC) for AWS services (EC2, RDS, S3, CloudWatch)  
+  - Configured **AWS EC2, RDS, S3, CloudWatch** for hosting and monitoring applications  
+  - Worked with **JIRA**, **GitHub**, **Postman**, **Swagger** in Agile Scrum environment  
+  - Awarded **Best Employer of the Year – 2023** 
 
 ---
 
