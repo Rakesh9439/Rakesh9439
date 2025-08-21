@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
-<h3 align="center">Java Full Stack Developer | 4 Years Experience | Passionate about Backend, Frontend & Cloud</h3>
+<h3 align="center">
+  💻 Java Full Stack Developer | 🌐 4 Years Experience <br/>
+  🚀 Passionate about Backend | Frontend | Cloud | DevOps
+</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+Expert;AWS+%7C+Microservices+%7C+Docker;Building+Scalable+Applications+%F0%9F%9A%80" alt="Typing SVG" />
